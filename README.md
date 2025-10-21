@@ -1,0 +1,1 @@
+# djangotutorial2025
